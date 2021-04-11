@@ -11,3 +11,4 @@
 - Problems Faced:
     Custom ACtion Integrations
     Channel Connectors
+- Models folder is excluded.
