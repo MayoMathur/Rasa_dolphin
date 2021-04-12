@@ -13,5 +13,5 @@
     More generic intents to be added
 - Problems Faced:
     Custom ACtion Integrations
-    Channel Connectors
+    Database Connectors
 - Models folder is excluded.
