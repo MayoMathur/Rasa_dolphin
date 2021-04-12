@@ -8,10 +8,10 @@
 7. The chatbot should reply with generic intents: greet, goodbye, who are you, what can you do for me, etc. 
 
 - Objectives under progress:
-    The name slot should be extracted from the entity (accuracy >= 90%)
-    Channel connector
+    The name slot should be extracted from the entity (accuracy >= 90%), 
+    Channel connector, 
     More generic intents to be added
 - Problems Faced:
-    Custom ACtion Integrations
-    Database Connectors
+    Custom ACtion Integrations,
+    Database Connectors,
 - Models folder is excluded.
